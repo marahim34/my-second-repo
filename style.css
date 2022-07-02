@@ -3,3 +3,8 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.5em;
 }
+h1{
+    background-color: lightgray;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
