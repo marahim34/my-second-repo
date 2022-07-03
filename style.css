@@ -30,3 +30,8 @@ h1{
     font-size: 2em;
     font-family: 'Times New Roman', Times, serif;
 }
+img{
+    height: auto;
+    width: auto;
+}
+
